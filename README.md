@@ -1,6 +1,6 @@
 Sobre o Projeto
 
-O challenge amigo secreto é um jogo/desafio interativo onde os participantes devem colocar os nomes e o jogo irá sortear os nomes aleatorios.
+O challenge amigo secreto é um jogo/desafio interativo onde os participantes devem colocar os nomes e o jogo irá sortear os nomes aleatorios. Acrescentei a opção de reiniciar o jogo caso o jogador queira tentar novo sorteio.
 
 Como Jogar
 
