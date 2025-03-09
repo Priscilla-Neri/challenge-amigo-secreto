@@ -158,8 +158,23 @@ ul {
 .button-draw img {
     margin-right: 40px;
     align-items: center;
+
+   
 }
 
-.button-draw:hover {
+.button__draw__baixo {
     background-color: var(--color-button-hover);
+    color: white;
+    justify-content: space-between;
+    width:100%
+    display:flex;
+    align-items: center;
+    gap: 50px;
+    text-align: center;
+    display: flex;
+    padding: 10px 46px;
+    font-size: 16px;
+
+
+     
 }
